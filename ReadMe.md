@@ -1,2 +1,2 @@
 # NewTrial --- learning experience
-Following a tutorial on YouTube
+Following a tutorial on **YouTube**
